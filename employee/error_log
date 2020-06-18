@@ -1,0 +1,12 @@
+[29-Sep-2019 22:15:52 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/php/dbconnect.php on line 16
+[29-Sep-2019 22:21:13 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/report.php on line 81
+[29-Sep-2019 22:31:11 Asia/Calcutta] PHP Notice:  Undefined index: emailid in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/login.php on line 22
+[29-Sep-2019 22:31:11 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/login.php on line 24
+[30-Sep-2019 12:35:56 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/report.php on line 81
+[30-Sep-2019 12:36:09 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/report.php on line 81
+[30-Sep-2019 13:48:17 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_name in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/php/header.php on line 25
+[30-Sep-2019 15:45:40 Asia/Calcutta] PHP Notice:  Undefined index: rainbow_name in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/php/header.php on line 25
+[30-Sep-2019 15:45:56 Asia/Calcutta] PHP Notice:  Undefined index: emailid in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/login.php on line 22
+[30-Sep-2019 15:45:56 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/login.php on line 24
+[30-Sep-2019 18:17:58 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/report.php on line 81
+[30-Sep-2019 18:19:01 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/u1ocsd6rvs5l/public_html/techlabzinfosoft.com/demo/invoice/manage-admin/report.php on line 81
